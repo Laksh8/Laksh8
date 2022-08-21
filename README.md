@@ -46,5 +46,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lakshit-khanna/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lakshit%20Khanna-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:lakshitkhanna311@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lakshitkhanna311@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
